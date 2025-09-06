@@ -1,0 +1,8 @@
+{
+  "learning_rate": 2.3102018878452926e-05,
+  "buffer_size": 200000,
+  "batch_size": 256,
+  "gamma": 0.9291852503886683,
+  "tau": 0.007960875022580142,
+  "learning_starts": 500
+}
